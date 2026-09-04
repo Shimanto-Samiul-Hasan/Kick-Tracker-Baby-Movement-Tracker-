@@ -1,0 +1,6 @@
+{
+  "name": "Kick Tracker",
+  "description": "Frictionless, single-action fetal movement and kick counter with Count-to-10 timer and medical export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
